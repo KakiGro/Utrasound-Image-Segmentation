@@ -1,0 +1,7 @@
+media/
+Checkpoints/
+build/
+__pycache__/
+data/
+dist/
+app.spec
